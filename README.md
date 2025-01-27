@@ -1,4 +1,4 @@
-# Implementation-3DGS-in-Colab
+# Implementation 3DGS in Colab
 To test the use of 3D Gaussian Splatting technology, I implemented the original code developed by graphdeco-inria in Google Colab, as I do not have a suitable graphics card. Just follow the comments below and Colab file
 
 | Title | Info | Link |
