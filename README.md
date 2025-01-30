@@ -7,6 +7,19 @@ To test the use of 3D Gaussian Splatting technology, I implemented the original 
 | 3DGS Render Blender Addon by KIRI Engine | Add-on to use file.ply in Blender| https://github.com/Kiri-Innovation/3dgs-render-blender-addon |
 
 
+#3DGS Render Addon by KIRI Engine for Blender
+
+## PLY file in Blender
+![imagen](https://github.com/user-attachments/assets/45283052-78bd-4e98-8e92-7820e351864b)
+
+## PLY file edited in Blender
+![imagen](https://github.com/user-attachments/assets/a8038708-391e-40c5-9db5-1f6193326ea5)
+
+
+
+
+
+
 1. First, download and upload the Colab file to your own Colab account.
 2. Just follow the comments below and the Colab file.
 
