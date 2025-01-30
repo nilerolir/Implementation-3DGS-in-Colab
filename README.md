@@ -10,7 +10,7 @@ To test the use of 3D Gaussian Splatting technology, I implemented the original 
 #3DGS Render Addon by KIRI Engine for Blender
 
 ## PLY file in Blender
-![imagen](https://github.com/user-attachments/assets/45283052-78bd-4e98-8e92-7820e351864b)
+![imagen](https://github.com/user-attachments/assets/f583d649-55e1-4d14-9835-89689547103f)
 
 ## PLY file edited in Blender
 ![imagen](https://github.com/user-attachments/assets/a8038708-391e-40c5-9db5-1f6193326ea5)
